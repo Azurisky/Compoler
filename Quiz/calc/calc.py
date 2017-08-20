@@ -91,5 +91,5 @@ yacc.yacc()
 
 
 # choose which file to test
-f = open('ex1.py','r') 
+f = open('ex2.py','r') 
 yacc.parse(f.read())
